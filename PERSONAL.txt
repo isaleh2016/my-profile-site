@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Personal Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <img src="C:\Users\isale\Desktop\WEb Pro\photo_2025-10-17_21-30-42.jpg" alt="my personal photo" class="profile-img">
+
+    <h1>SALEH Abdullah ALSUHIBANI</h1>
+    <hr>
+
+    <p class="bio">
+Student in the Cybersecurity Department <br>
+" Always learning, Always growing."    </p>
+
+    <hr>
+
+    <div class="links">
+      <a href="https://t.me/isaleh2016" target="_blank">Telegram</a>
+      <a href="https://www.instagram.com/isaleh6/" target="_blank">Instagram</a>
+      <a href="mailto:isaleh2016@gmail.com"> My Email</a>
+    </div>
+  </div>
+</body>
+</html>
